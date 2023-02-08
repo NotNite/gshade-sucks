@@ -37,6 +37,10 @@ If you *absolutely* need to use GShade, you can use [this patcher][patcher] to r
 
 The malware in GShade was specifically inside of the installer code. Given that the installer is now non-functional, it is believed safe to use. It is still recommended to switch to ReShade.
 
+## What's the difference between ReShade and GShade?
+
+GShade is a modified version of ReShade. ReShade is free, open source software, and is the original project. GShade is a closed source, proprietary fork of ReShade.
+
 ## ReShade doesn't work as well as GShade!
 
 Please report incompatibilities to the [Rika's Shader Porting Project][shader-porting-project] Discord server.
